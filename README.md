@@ -1,2 +1,11 @@
-# concept-masked-defense
-Code for "Concept-Based Masking: A Patch-Agnostic Defense Against Adversarial Patch Attacks" submitted to Reliable ML from Unreliable Data Workshop at NeurIPS 2025 
+# Concept-Based Masking: A Patch-Agnostic Defense Against Adversarial Patch Attacks
+
+## Requirements
+
+### Required Packages
+ - CRAFT
+ - Numpy
+ - PyTorch
+
+### Model
+We use the ResNet50 trained by Patchcleanser. The download link is in their [Github Repository](https://github.com/inspire-group/PatchCleanser)/ 
