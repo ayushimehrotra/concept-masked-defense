@@ -8,4 +8,4 @@
  - PyTorch
 
 ### Model
-We use the ResNet50 trained by Patchcleanser. The download link is in their [Github Repository](https://github.com/inspire-group/PatchCleanser)/ 
+We use the ResNet50 trained by Patchcleanser. The download link is in their [Github Repository](https://github.com/inspire-group/PatchCleanser) 
